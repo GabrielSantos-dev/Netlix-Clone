@@ -39,7 +39,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/blade-runner12.jpg');
 
     height:600px;
     background-size:cover;
@@ -113,14 +113,28 @@ header nav a:hover{
     cursor: pointer;
    
 }
+.populares{
+    /*font-family: 'Kanit', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-bottom: 15px;
 
+}
+.em_alta{
+    /*font-family: 'Kanit', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-bottom: 15px;
+
+}
 
 .carrosel-filmes{
  
     margin-top:5px;
     
 }
-
 
 
 
